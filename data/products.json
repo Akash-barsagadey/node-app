@@ -1,1 +1,9 @@
-[{ "title": "test", "imageUrl": "cc", "description": "cdcdc", "price": "300" }]
+[
+  {
+    "id": "u38rufu",
+    "title": "test",
+    "imageUrl": "cc",
+    "description": "cdcdc",
+    "price": "300"
+  }
+]
